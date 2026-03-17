@@ -31,7 +31,8 @@ cd gtarefas
 6 - python manage.py runserver
 
 #
-[ 🌐 Ver Online ] (https://gtarefas.onrender.com)
+🌐 Ver Online (https://gtarefas.onrender.com)
+--
 API estará disponivél em: http://127.0.0.1:8000/api/
 
 👩🏽‍💻🚀
