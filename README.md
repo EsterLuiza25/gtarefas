@@ -33,6 +33,6 @@ cd gtarefas
 #
 🌐 Ver Online, API estará disponivél em: (https://gtarefas.onrender.com)
 
-Confira a documentação interativa aqui: (https://gtarefas.onrender.com/api/docs/)
+👩🏽‍💻 Confira a documentação interativa aqui: (https://gtarefas.onrender.com/api/docs/)
 
-👩🏽‍💻🚀
+🚀
